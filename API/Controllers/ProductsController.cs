@@ -38,9 +38,7 @@ namespace API.Controllers
 
     public async Task<ActionResult<List<Product>>> GetProduct(int id)
     {
-      var product = await _repo.GetProductByIdAsync(id);
-
-      return Ok(product);
+       return Ok(await _repo.GetProductByIdAsync(id));
     }
 
     [HttpGet("brands")]
@@ -54,7 +52,7 @@ namespace API.Controllers
     {
       return Ok(await _repo.GetProductTypesAsync());
     }
-
+ 
 
 
   }

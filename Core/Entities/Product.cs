@@ -2,7 +2,7 @@ namespace Core.Entities
 {
     public class Product : BaseEntity
     {
-        public string Price { get; set; }
+        public decimal Price { get; set; }
 
         public string PictureUrl { get; set; }
 
