@@ -67,3 +67,5 @@ C:\Users\shiva\Documents\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore
 C:\Users\shiva\Documents\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\shiva\Documents\skinet\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\shiva\Documents\skinet\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\shiva\Documents\skinet\API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\shiva\Documents\skinet\API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

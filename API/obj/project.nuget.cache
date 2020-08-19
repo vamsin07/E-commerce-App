@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "49fUFJrUMVq/LK9hycBFJu9TFzL8hdjdP4cd7hgCL/y7r6htXrUfaW1Wk90zS7n0Q/WxACILbi45EX/Oy3BXxg==",
+  "dgSpecHash": "MqxAk1kdcZMQwvziYqQ34HjgTzIMNgRqgaNxbEembVvzIp3jDBgzlf5W1Uv7R3VDWsJbcY1/94XhXROwDwSqfw==",
   "success": true,
   "projectFilePath": "C:\\Users\\shiva\\Documents\\skinet\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\shiva\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
+    "C:\\Users\\shiva\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.0.1\\automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",
     "C:\\Users\\shiva\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.7\\microsoft.aspnetcore.jsonpatch.3.1.7.nupkg.sha512",
     "C:\\Users\\shiva\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.7\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.7.nupkg.sha512",
     "C:\\Users\\shiva\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
@@ -40,6 +42,7 @@
     "C:\\Users\\shiva\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "C:\\Users\\shiva\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
     "C:\\Users\\shiva\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\shiva\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Users\\shiva\\.nuget\\packages\\system.text.json\\4.7.1\\system.text.json.4.7.1.nupkg.sha512"
   ],
   "logs": []
