@@ -58,6 +58,14 @@
               "target": "Package",
               "version": "[3.1.7, )"
             },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUi": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            },
             "System.Text.Json": {
               "target": "Package",
               "version": "[4.7.1, )"

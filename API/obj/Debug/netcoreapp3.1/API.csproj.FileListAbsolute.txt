@@ -69,3 +69,8 @@ C:\Users\shiva\Documents\skinet\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\shiva\Documents\skinet\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
 C:\Users\shiva\Documents\skinet\API\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Users\shiva\Documents\skinet\API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\shiva\Documents\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\shiva\Documents\skinet\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shiva\Documents\skinet\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shiva\Documents\skinet\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shiva\Documents\skinet\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
