@@ -1,0 +1,12 @@
+C:\Users\shiva\Documents\skinet\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.deps.json
+C:\Users\shiva\Documents\skinet\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.dll
+C:\Users\shiva\Documents\skinet\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.pdb
+C:\Users\shiva\Documents\skinet\Infrastructure\bin\Debug\netstandard2.1\Core.dll
+C:\Users\shiva\Documents\skinet\Infrastructure\bin\Debug\netstandard2.1\Core.pdb
+C:\Users\shiva\Documents\skinet\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csprojAssemblyReference.cache
+C:\Users\shiva\Documents\skinet\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\shiva\Documents\skinet\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfo.cs
+C:\Users\shiva\Documents\skinet\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\shiva\Documents\skinet\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csproj.CopyComplete
+C:\Users\shiva\Documents\skinet\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.dll
+C:\Users\shiva\Documents\skinet\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.pdb

@@ -1,11 +1,28 @@
 {
   "version": 2,
-  "dgSpecHash": "P9/iCAtE1jhqu8UaY3dV9lrjxDn1YvKVuXBEn3UWIvBcvNiri/XXu5aP5rPMDnRaaYIKktfQ/qWemtqzKHvshg==",
+  "dgSpecHash": "9+LGd7o0Z8jMkwnU6fVfj0z5bMphea1Tip0Pqn4rq2bVlZnH1VoxUhrYu5XwlSkU6WFLuwTLBTk/qRwqenA99Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\shiva\\Documents\\skinet\\Core\\Core.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\shiva\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\shiva\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\shiva\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.7\\microsoft.aspnetcore.cryptography.internal.3.1.7.nupkg.sha512",
+    "C:\\Users\\shiva\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.7\\microsoft.aspnetcore.cryptography.keyderivation.3.1.7.nupkg.sha512",
+    "C:\\Users\\shiva\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.7\\microsoft.extensions.caching.abstractions.3.1.7.nupkg.sha512",
+    "C:\\Users\\shiva\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.7\\microsoft.extensions.configuration.3.1.7.nupkg.sha512",
+    "C:\\Users\\shiva\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.7\\microsoft.extensions.configuration.abstractions.3.1.7.nupkg.sha512",
+    "C:\\Users\\shiva\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.7\\microsoft.extensions.configuration.binder.3.1.7.nupkg.sha512",
+    "C:\\Users\\shiva\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.7\\microsoft.extensions.dependencyinjection.3.1.7.nupkg.sha512",
+    "C:\\Users\\shiva\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.7\\microsoft.extensions.dependencyinjection.abstractions.3.1.7.nupkg.sha512",
+    "C:\\Users\\shiva\\.nuget\\packages\\microsoft.extensions.identity.core\\3.1.7\\microsoft.extensions.identity.core.3.1.7.nupkg.sha512",
+    "C:\\Users\\shiva\\.nuget\\packages\\microsoft.extensions.identity.stores\\3.1.7\\microsoft.extensions.identity.stores.3.1.7.nupkg.sha512",
+    "C:\\Users\\shiva\\.nuget\\packages\\microsoft.extensions.logging\\3.1.7\\microsoft.extensions.logging.3.1.7.nupkg.sha512",
+    "C:\\Users\\shiva\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.7\\microsoft.extensions.logging.abstractions.3.1.7.nupkg.sha512",
+    "C:\\Users\\shiva\\.nuget\\packages\\microsoft.extensions.options\\3.1.7\\microsoft.extensions.options.3.1.7.nupkg.sha512",
+    "C:\\Users\\shiva\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.7\\microsoft.extensions.primitives.3.1.7.nupkg.sha512",
+    "C:\\Users\\shiva\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\shiva\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\shiva\\.nuget\\packages\\system.memory\\4.5.2\\system.memory.4.5.2.nupkg.sha512",
+    "C:\\Users\\shiva\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\shiva\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512"
   ],
   "logs": []
 }
